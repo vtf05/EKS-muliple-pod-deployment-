@@ -4,7 +4,7 @@ metadata:
   name: app2-ingress
 spec:
   rules:
-    - host: eks-demo-2.staging.geoiq.io
+    - host: yourdomain.com
       http:
         paths:
           - path: /

@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app2
-          image: public.ecr.aws/z3w6n5n8/websitetest2:latest
+          image: your-image
           ports:
             - containerPort: 80
